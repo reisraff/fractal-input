@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/reisraff/fractal-input/compare/v1.1.0...v1.2.0) (2024-07-31)
+
+
+### Features
+
+* fix tests ([4254055](https://github.com/reisraff/fractal-input/commit/42540557d1c0f663e4f0c0f76ca7609ead4b8853))
+
+
+### Bug Fixes
+
+* fix __init__.py ([63b195c](https://github.com/reisraff/fractal-input/commit/63b195c7c117a2c5a74cd63134acd3d799a8bdf6))
+* update setup.py ([0c6ec67](https://github.com/reisraff/fractal-input/commit/0c6ec6753f77a78784b57b37ddf937e00bae7b13))
+
 ## [1.1.0](https://github.com/jefersondaniel/fractal-input/compare/1.0.0...v1.1.0) (2024-02-19)
 
 
